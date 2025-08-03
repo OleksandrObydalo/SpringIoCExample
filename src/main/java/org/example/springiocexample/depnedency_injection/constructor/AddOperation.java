@@ -1,4 +1,4 @@
-package org.example.springiocexample.constructor_dependency_injection;
+package org.example.springiocexample.depnedency_injection.constructor;
 
 public class AddOperation {
     public class AddOperationService {

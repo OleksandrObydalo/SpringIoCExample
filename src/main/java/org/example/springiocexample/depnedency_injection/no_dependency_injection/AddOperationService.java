@@ -1,4 +1,4 @@
-package org.example.springiocexample.no_dependency_injection;
+package org.example.springiocexample.depnedency_injection.no_dependency_injection;
 
 public class AddOperationService {
     private DigitalServiceImpl digitalService;

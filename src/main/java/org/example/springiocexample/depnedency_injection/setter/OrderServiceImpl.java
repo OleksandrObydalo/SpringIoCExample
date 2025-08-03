@@ -1,4 +1,4 @@
-package org.example.springiocexample.setter_dependency_injection;
+package org.example.springiocexample.depnedency_injection.setter;
 
 public class OrderServiceImpl {
     private DigitalService digitalService;
